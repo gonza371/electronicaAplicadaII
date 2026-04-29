@@ -15,6 +15,7 @@
 \RequirePackage{pgfplots}
 \RequirePackage{circuitikz}
 \RequirePackage{hyperref}
+\RequirePackage{cuted}
 \RequirePackage{caption}
 \RequirePackage[table]{xcolor}
 
