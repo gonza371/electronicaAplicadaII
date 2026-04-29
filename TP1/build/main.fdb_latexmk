@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1777490472.70173 "c:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/main.tex" "build/main.pdf" "main" 1777490474.38219 0
+["pdflatex"] 1777490596.59422 "c:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/main.tex" "build/main.pdf" "main" 1777490598.28221 0
   "C:/Users/gonfi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1777490165.9922 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/gonfi/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1750266454.65037 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/gonfi/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1750263635.6902 13234938 30f860a347630bc1469083995ce6332b ""
@@ -234,10 +234,10 @@
   "C:/Users/gonfi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/gonfi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/gonfi/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.sty" 1718270407 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
-  "C:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/build/main.aux" 1777490474.1123 1248 8b81d52f16e83927342352e124c2a764 ""
-  "C:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/build/main.out" 1777490474.1153 1006 e4026b7b1262c5eb0804a992280d42b5 ""
-  "build/main.aux" 1777490474.1123 1248 8b81d52f16e83927342352e124c2a764 "pdflatex"
-  "build/main.out" 1777490474.1153 1006 e4026b7b1262c5eb0804a992280d42b5 "pdflatex"
+  "C:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/build/main.aux" 1777490598.0309 1248 8b81d52f16e83927342352e124c2a764 ""
+  "C:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/build/main.out" 1777490598.0339 1006 e4026b7b1262c5eb0804a992280d42b5 ""
+  "build/main.aux" 1777490598.0309 1248 8b81d52f16e83927342352e124c2a764 "pdflatex"
+  "build/main.out" 1777490598.0339 1006 e4026b7b1262c5eb0804a992280d42b5 "pdflatex"
   "c:/Users/gonfi/Documents/Github/Gonza/electronicaAplicadaII/TP1/main.tex" 1777490472.08575 1825 aafe276bff0176ffae0900e8ec85b082 ""
   "images/circuito_impedanciaentrada.png" 1777420061.28871 546252 488b891dd7f905e65724c928dec079e0 ""
   "images/circuito_lazoabierto.png" 1777418425.77171 405950 ac0bdfcd39a9bca4dcca8970084440e2 ""
@@ -251,7 +251,7 @@
   "images/osc_vocerrado.png" 1777490024.7643 301235 cf4179a1f3fd824b641e289cfb8db92a ""
   "images/osc_vomes.png" 1777490024.7668 323122 9a6bae6b6a597171cdca517dda2ac56e ""
   "images/osc_zi.png" 1777490024.76915 291073 3b5dc18bd88abe02d3a94f9f6045b157 ""
-  "parte1.tex" 1777490407.26473 5915 fde39cf76e82a695b1a9f2edc81212c0 ""
+  "parte1.tex" 1777490595.94887 5915 755f068afd90e781a7f3be021b7528ed ""
   "plantilla.cls" 1777490024.77015 2534 06f68f4e8d53d76b30fd108f6551e5cd ""
   (generated)
   "build/main.aux"
